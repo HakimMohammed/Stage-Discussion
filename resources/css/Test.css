@@ -1,0 +1,27 @@
+.custom-recorder {
+    height: 38px;
+    padding-top: 2;
+  }
+  
+  .custom-audio::-webkit-media-controls-panel{
+      background-color: white;
+  }
+
+
+  .chat-custom-audio::-webkit-media-controls-panel{
+      background-color: rgb(241, 249, 252);
+  }
+
+  .chat-custom-audio{
+    background-color: rgb(241, 249, 252);
+}
+
+  .chat-rec-custom-audio::-webkit-media-controls-panel{
+      background-color: rgb(228, 234, 248);
+  }
+
+  .chat-rec-custom-audio{
+    background-color: rgb(228, 234, 248);
+}
+  
+  
